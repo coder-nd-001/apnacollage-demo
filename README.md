@@ -1,4 +1,4 @@
 # apnacollage-demo
 this is my first repository.
 <br>
-Author -Nagesh Reddy
+Author -Nagesh (MIT-WPU)
